@@ -3332,10 +3332,6 @@ input[type="range"]::-ms-fill-lower {
   height: auto;
 }
 
-.h-full {
-  height: 100%;
-}
-
 .max-h-full {
   max-height: 100%;
 }
